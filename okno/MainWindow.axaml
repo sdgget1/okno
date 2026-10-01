@@ -9,5 +9,6 @@
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Witaj w moim pierwszym oknie!"
                FontSize="32"
-               FontWeight="Bold" />
+               FontWeight="Bold"
+               FontStyle="Italic" />
 </Window>
