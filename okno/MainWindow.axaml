@@ -8,5 +8,6 @@
         Width="500" Height="300"
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Witaj w moim pierwszym oknie!"
-               FontSize="32" />
+               FontSize="32"
+               FontWeight="Bold" />
 </Window>
